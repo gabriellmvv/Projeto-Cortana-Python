@@ -18,9 +18,4 @@ Meu objetivo foi criar uma “Cortana” – créditos a Microsoft -, ela respon
 11)	Desativar o sistema;
 12)	Desativar a IA por comando de voz.
 
-Como eu acredito que este seja um projeto um pouco complicado para quem ainda está no zero, não consegui escapar da infelicidade de existirem alguns problemas que não sei como resolver. Espero estudar o suficiente para voltar com novas atualizações e ajustes. Por ora, estes são os defeitos do código:
-
-1)	E-mail não envia título ou conteúdo acentuado.
-2)	Previsão do tempo necessita de otimização.
-
 Muito obrigado por ler! :D
